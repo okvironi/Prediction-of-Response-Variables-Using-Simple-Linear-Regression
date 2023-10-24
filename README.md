@@ -1,0 +1,1 @@
+# Prediction-of-Response-Variables-Using-Simple-Linear-Regression
